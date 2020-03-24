@@ -1,9 +1,7 @@
 # Summmary
 
-
-
 <p>
-Data sets consistings of millions and more observations are exceeding the capacities of a single machine. Based on the Hadoop distributed file system Apache Spark offers a solution for processing large, big data sets by building a virtual machine managing file chunks on distributed worker nodes. The goal here is to apply methods for preparing, cleaning and optimizing data sets. This support a smooth execution with good performance.
+Data sets consisting of millions and more observations are exceeding the capacities of a single machine. Based on the Hadoop distributed file system Apache Spark offers a solution for processing large, big data sets by building a virtual machine managing file chunks on distributed worker nodes. The goal here is to apply methods for preparing, cleaning and optimizing data sets. This supports a smooth execution with good performance.
 </p>
 
 <p>
